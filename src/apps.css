@@ -1,0 +1,41 @@
+.cabecalho{
+    text-align: center;
+    color: aliceblue;
+  }
+  .joao{
+    text-align: center;
+    color: aliceblue;
+    height: 50px;
+    font-size: large;
+  }
+  
+  .rodape{
+    text-align: center;
+    color: aliceblue;
+  }
+  
+  .log{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    padding: 20px 0px;
+    color: aliceblue;
+    width: 400px;
+    height: 350px;
+  }
+
+
+.main{
+  display: flex;
+  flex-direction: column;
+  align-items:  center;
+}
+
+.hzin{
+  display: flex;
+  flex-direction: column;
+  align-items:  center;
+}
+
+
